@@ -1,3 +1,4 @@
+### 加载doc文件，同时替换#{}变量
 # templ4docx - Utility library for filling templates in docx files. 
 The heart of this library is `apache-poi`
 
